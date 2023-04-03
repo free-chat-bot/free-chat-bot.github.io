@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "https://gcore.jsdelivr.net/gh/free-chat-bot/free-chat-bot.github.io@gh-pages/static/css/main.f85d98ff.css",
+    "main.css": "https://gcore.jsdelivr.net/gh/free-chat-bot/free-chat-bot.github.io@gh-pages/static/css/main.491312f3.css",
     "main.js": "https://gcore.jsdelivr.net/gh/free-chat-bot/free-chat-bot.github.io@gh-pages/static/js/main.04fe3db8.js",
     "static/js/787.17fc3bf0.chunk.js": "https://gcore.jsdelivr.net/gh/free-chat-bot/free-chat-bot.github.io@gh-pages/static/js/787.17fc3bf0.chunk.js",
     "static/media/KaTeX_AMS-Regular.ttf": "https://gcore.jsdelivr.net/gh/free-chat-bot/free-chat-bot.github.io@gh-pages/static/media/KaTeX_AMS-Regular.853be92419a6c3766b9a.ttf",
@@ -64,12 +64,12 @@
     "static/media/KaTeX_Size3-Regular.woff": "https://gcore.jsdelivr.net/gh/free-chat-bot/free-chat-bot.github.io@gh-pages/static/media/KaTeX_Size3-Regular.7947224e8a9914fa332b.woff",
     "static/media/KaTeX_Size3-Regular.woff2": "https://gcore.jsdelivr.net/gh/free-chat-bot/free-chat-bot.github.io@gh-pages/static/media/KaTeX_Size3-Regular.e1951519f6f0596f7356.woff2",
     "index.html": "https://gcore.jsdelivr.net/gh/free-chat-bot/free-chat-bot.github.io@gh-pages/index.html",
-    "main.f85d98ff.css.map": "https://gcore.jsdelivr.net/gh/free-chat-bot/free-chat-bot.github.io@gh-pages/static/css/main.f85d98ff.css.map",
+    "main.491312f3.css.map": "https://gcore.jsdelivr.net/gh/free-chat-bot/free-chat-bot.github.io@gh-pages/static/css/main.491312f3.css.map",
     "main.04fe3db8.js.map": "https://gcore.jsdelivr.net/gh/free-chat-bot/free-chat-bot.github.io@gh-pages/static/js/main.04fe3db8.js.map",
     "787.17fc3bf0.chunk.js.map": "https://gcore.jsdelivr.net/gh/free-chat-bot/free-chat-bot.github.io@gh-pages/static/js/787.17fc3bf0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f85d98ff.css",
+    "static/css/main.491312f3.css",
     "static/js/main.04fe3db8.js"
   ]
 }
